@@ -1,0 +1,14 @@
+{
+  "title": "GMK Modern Dolch",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-modern-dolch",
+  "image": "data/keycaps/gmk/gmk-modern-dolch.jpg",
+  "skip": "duplicate",
+  "links": [
+    {
+      "name": "Modern Dolch ZF GB Link",
+      "url": "https://www.zfrontier.com/m/4366"
+    }
+  ]
+}

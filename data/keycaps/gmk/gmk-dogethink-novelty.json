@@ -1,0 +1,14 @@
+{
+  "title": "GMK Dogethink Novelty",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-dogethink-novelty",
+  "image": "data/keycaps/gmk/gmk-dogethink-novelty.jpg",
+  "skip": "no base",
+  "links": [
+    {
+      "name": "Dogethink Novelty GH GB Link",
+      "url": "https://geekhack.org/index.php?topic=73329.0"
+    }
+  ]
+}

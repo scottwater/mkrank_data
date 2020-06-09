@@ -1,0 +1,14 @@
+{
+  "title": "GMK RGBY",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-rgby",
+  "image": "data/keycaps/gmk/gmk-rgby.png",
+  "skip": "no base",
+  "links": [
+    {
+      "name": "RGBY GH GB Link",
+      "url": "https://geekhack.org/index.php?topic=54442.0"
+    }
+  ]
+}

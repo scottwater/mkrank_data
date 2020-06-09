@@ -1,0 +1,14 @@
+{
+  "title": "GMK Oblivion R1 R1",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-oblivion-r1-r1",
+  "image": "data/keycaps/gmk/gmk-oblivion-r1-r1.jpg",
+  "skip": "duplicate",
+  "links": [
+    {
+      "name": "Oblivion R1 GH GB Link",
+      "url": "https://geekhack.org/index.php?topic=89241.0"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "title": "GMK Purple Mod",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-purple-mod",
+  "image": "data/keycaps/gmk/gmk-purple-mod.jpg",
+  "skip": "no base"
+}

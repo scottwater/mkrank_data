@@ -1,0 +1,18 @@
+{
+  "title": "GMK Carbon R1 R1",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-carbon-r1-r1",
+  "image": "data/keycaps/gmk/gmk-carbon-r1-r1.jpg",
+  "skip": "duplicate",
+  "links": [
+    {
+      "name": "Carbon R1 MD GB Link",
+      "url": "https://www.massdrop.com/buy/gmk-carbon-custom-keycap-set"
+    },
+    {
+      "name": "Carbon R1 Add-on MD GB Link",
+      "url": "https://drop.com/buy/gmk-carbon-add-on-kit"
+    }
+  ]
+}

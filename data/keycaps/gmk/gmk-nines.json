@@ -1,0 +1,14 @@
+{
+  "title": "GMK Nines",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-nines",
+  "image": "data/keycaps/gmk/gmk-nines.jpg",
+  "skip": "duplicate",
+  "links": [
+    {
+      "name": "Nines GH GB Link",
+      "url": "https://geekhack.org/index.php?topic=100074.0"
+    }
+  ]
+}

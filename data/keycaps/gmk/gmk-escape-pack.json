@@ -1,0 +1,18 @@
+{
+  "title": "GMK Escape Pack",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-escape-pack",
+  "image": "data/keycaps/gmk/gmk-escape-pack.jpg",
+  "skip": "no base",
+  "links": [
+    {
+      "name": "Escape Pack V1 DT GB Link",
+      "url": "https://deskthority.net/viewtopic.php?f=50&t=11680&start="
+    },
+    {
+      "name": "Escape Pack V2 GH GB Link",
+      "url": "https://geekhack.org/index.php?topic=84139.0"
+    }
+  ]
+}

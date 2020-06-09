@@ -1,0 +1,14 @@
+{
+  "title": "GMK Mondrian",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-mondrian",
+  "image": "data/keycaps/gmk/gmk-mondrian.jpg",
+  "skip": "no base",
+  "links": [
+    {
+      "name": "Mondrian GH GB Link",
+      "url": "https://geekhack.org/index.php?topic=90440.0"
+    }
+  ]
+}

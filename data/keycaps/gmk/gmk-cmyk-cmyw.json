@@ -1,0 +1,14 @@
+{
+  "title": "GMK CMYK CMYW",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-cmyk-cmyw",
+  "image": "data/keycaps/gmk/gmk-cmyk-cmyw.png",
+  "skip": "no base",
+  "links": [
+    {
+      "name": "CMYW GH GB Link",
+      "url": "https://geekhack.org/index.php?topic=54039.0"
+    }
+  ]
+}

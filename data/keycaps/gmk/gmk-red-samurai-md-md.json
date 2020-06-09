@@ -1,0 +1,14 @@
+{
+  "title": "GMK Red Samurai MD MD",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-red-samurai-md-md",
+  "image": "data/keycaps/gmk/gmk-red-samurai-md-md.jpg",
+  "skip": "duplicate",
+  "links": [
+    {
+      "name": "Red Samurai MD Link",
+      "url": "https://drop.com/buy/drop-redsuns-gmk-red-samurai-keycap-set"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "title": "GMK WoB BoW Hangul Add On",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-wob-bow-hangul-add-on",
+  "image": "data/keycaps/gmk/gmk-wob-bow-hangul-add-on.jpg",
+  "skip": "no base",
+  "links": [
+    {
+      "name": "WoB/BoW Hangul Add-On GH GB Link",
+      "url": "https://geekhack.org/index.php?topic=102183"
+    }
+  ]
+}

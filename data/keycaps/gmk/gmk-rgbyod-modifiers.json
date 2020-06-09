@@ -1,0 +1,14 @@
+{
+  "title": "GMK RGBYOD Modifiers",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-rgbyod-modifiers",
+  "image": "data/keycaps/gmk/gmk-rgbyod-modifiers.jpg",
+  "skip": "no base",
+  "links": [
+    {
+      "name": "RGBYOD Modifiers OCO GB Link",
+      "url": "https://www.originativeco.com/products/rgbyod-modifiers"
+    }
+  ]
+}

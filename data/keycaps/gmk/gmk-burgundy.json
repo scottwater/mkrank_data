@@ -1,0 +1,13 @@
+{
+  "title": "GMK Burgundy",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-burgundy",
+  "image": "data/keycaps/gmk/gmk-burgundy.jpg",
+  "links": [
+    {
+      "name": "Burgundy R3 GH GB Link",
+      "url": "https://geekhack.org/index.php?topic=104078.0"
+    }
+  ]
+}

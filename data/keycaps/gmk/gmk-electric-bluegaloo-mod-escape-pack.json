@@ -1,0 +1,14 @@
+{
+  "title": "GMK Electric Bluegaloo Mod Escape Pack",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-electric-bluegaloo-mod-escape-pack",
+  "image": "data/keycaps/gmk/gmk-electric-bluegaloo-mod-escape-pack.png",
+  "skip": "no base",
+  "links": [
+    {
+      "name": "Electric Bluegaloo Mod & Escape Pack GH GB Link",
+      "url": "https://geekhack.org/index.php?topic=70595.0"
+    }
+  ]
+}

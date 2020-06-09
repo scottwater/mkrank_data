@@ -1,0 +1,14 @@
+{
+  "title": "GMK Carbon R2 R2",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-carbon-r2-r2",
+  "image": "data/keycaps/gmk/gmk-carbon-r2-r2.jpg",
+  "skip": "duplicate",
+  "links": [
+    {
+      "name": "GMK Carbon Massdrop link",
+      "url": "https://www.massdrop.com/buy/gmk-carbon-custom-keycap-set"
+    }
+  ]
+}

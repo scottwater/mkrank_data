@@ -1,0 +1,13 @@
+{
+  "title": "GMK Red Samurai",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-red-samurai",
+  "image": "data/keycaps/gmk/gmk-red-samurai-r1-r1.jpg",
+  "links": [
+    {
+      "name": "Red Samurai R1 MD GB Link",
+      "url": "https://www.massdrop.com/buy/massdrop-x-redsuns-gmk-red-samurai-keycap-set"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "title": "GMK Magenta Mods",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-magenta-mods",
+  "image": "data/keycaps/gmk/gmk-magenta-mods.png",
+  "skip": "no base",
+  "links": [
+    {
+      "name": "Magenta Mods OCO GB Link",
+      "url": "https://www.originativeco.com/products/magenta-mods"
+    }
+  ]
+}

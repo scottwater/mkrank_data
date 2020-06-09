@@ -1,0 +1,14 @@
+{
+  "title": "GMK WoB 40s Colevrak R0 R5 Extensions",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-wob-40s-colevrak-r0-r5-extensions",
+  "image": "data/keycaps/gmk/gmk-wob-40s-colevrak-r0-r5-extensions.png",
+  "skip": "no base",
+  "links": [
+    {
+      "name": "WoB 40s / Colevrak / R0/R5 Extensions GH GB Link",
+      "url": "https://geekhack.org/index.php?topic=105239.0"
+    }
+  ]
+}

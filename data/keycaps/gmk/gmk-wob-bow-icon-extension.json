@@ -1,0 +1,14 @@
+{
+  "title": "GMK WoB BoW Icon Extension",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-wob-bow-icon-extension",
+  "image": "data/keycaps/gmk/gmk-wob-bow-icon-extension.jpg",
+  "skip": "no base",
+  "links": [
+    {
+      "name": "WoB/BoW Icon Extension GH GB Link",
+      "url": "https://geekhack.org/index.php?topic=101664.0"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "title": "GMK Black Modi",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-black-modi",
+  "image": "data/keycaps/gmk/gmk-black-modi.png",
+  "skip": true,
+  "links": [
+    {
+      "name": "Black Modi GH GB Link",
+      "url": "https://geekhack.org/index.php?topic=84892.0"
+    }
+  ]
+}

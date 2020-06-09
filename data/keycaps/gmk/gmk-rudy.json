@@ -1,0 +1,13 @@
+{
+  "title": "GMK Rudy",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-rudy",
+  "image": "data/keycaps/gmk/gmk-rudy.png",
+  "links": [
+    {
+      "name": "Rudy GH GB Link",
+      "url": "https://geekhack.org/index.php?topic=103621.0"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "title": "GMK Korean Beige Add on",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-korean-beige-add-on",
+  "image": "data/keycaps/gmk/gmk-korean-beige-add-on.png",
+  "skip": "no base",
+  "links": [
+    {
+      "name": "Korean Beige Add-on GH GB Link",
+      "url": "https://geekhack.org/index.php?topic=101281.0"
+    }
+  ]
+}

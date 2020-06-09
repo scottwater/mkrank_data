@@ -1,0 +1,13 @@
+{
+  "title": "GMK Hyperfuse Redux",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-hyperfuse-redux",
+  "image": "data/keycaps/gmk/gmk-hyperfuse-redux.jpg",
+  "links": [
+    {
+      "name": "Hyperfuse Redux OCO GB Link",
+      "url": "https://www.originativeco.com/products/hyperfuse-redux"
+    }
+  ]
+}

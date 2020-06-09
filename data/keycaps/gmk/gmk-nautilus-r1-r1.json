@@ -1,0 +1,14 @@
+{
+  "title": "GMK Nautilus R1 R1",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-nautilus-r1-r1",
+  "image": "data/keycaps/gmk/gmk-nautilus-r1-r1.jpeg",
+  "skip": "duplciate",
+  "links": [
+    {
+      "name": "Nautilus R1 MD GB Link",
+      "url": "https://www.massdrop.com/buy/massdrop-x-zambumon-gmk-nautilus-custom-keycap-set"
+    }
+  ]
+}

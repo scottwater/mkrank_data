@@ -1,0 +1,14 @@
+{
+  "title": "GMK LED",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-led",
+  "image": "data/keycaps/gmk/gmk-led.png",
+  "skip": "no base",
+  "links": [
+    {
+      "name": "LED GH GB Link",
+      "url": "https://geekhack.org/index.php?topic=60117.0"
+    }
+  ]
+}

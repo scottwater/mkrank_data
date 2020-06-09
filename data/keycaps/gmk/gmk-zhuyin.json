@@ -1,0 +1,14 @@
+{
+  "title": "GMK Zhuyin",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-zhuyin",
+  "image": "data/keycaps/gmk/gmk-zhuyin.png",
+  "skip": "no base",
+  "links": [
+    {
+      "name": "Zhuyin GH GB Link",
+      "url": "https://geekhack.org/index.php?topic=104508.0"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "title": "GMK SKIDATA R1",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-skidata-r1",
+  "image": "data/keycaps/gmk/gmk-skidata-r1.png",
+  "skip": "duplicate",
+  "links": [
+    {
+      "name": "SKIDATA+ GH GB Link",
+      "url": "https://geekhack.org/index.php?topic=76521.msg1913011#msg1913011"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "title": "GMK Camping",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-camping",
+  "image": "data/keycaps/gmk/gmk-camping.jpg",
+  "skip": "duplicate",
+  "links": [
+    {
+      "name": "Camping Kono GB Link",
+      "url": "https://kono.store/products/gmk-camping"
+    }
+  ]
+}

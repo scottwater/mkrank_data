@@ -1,0 +1,14 @@
+{
+  "title": "GMK Skeletor R1 R1",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-skeletor-r1-r1",
+  "image": "data/keycaps/gmk/gmk-skeletor-r1-r1.png",
+  "skip": "duplicate",
+  "links": [
+    {
+      "name": "Skeletor R1 OCO GB Link",
+      "url": "https://www.originativeco.com/products/skeletor"
+    }
+  ]
+}

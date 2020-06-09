@@ -1,0 +1,14 @@
+{
+  "title": "GMK Cherry Logo",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-cherry-logo",
+  "image": "data/keycaps/gmk/gmk-cherry-logo.png",
+  "skip": "no base",
+  "links": [
+    {
+      "name": "Cherry Logo GH GB Link",
+      "url": "https://geekhack.org/index.php?topic=79230.0"
+    }
+  ]
+}

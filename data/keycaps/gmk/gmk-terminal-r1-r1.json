@@ -1,0 +1,14 @@
+{
+  "title": "GMK Terminal R1 R1",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-terminal-r1-r1",
+  "image": "data/keycaps/gmk/gmk-terminal-r1-r1.png",
+  "skip": "duplicate",
+  "links": [
+    {
+      "name": "Terminal R1 The Key Company GB Link",
+      "url": "https://thekey.company/collections/archive/products/gmk-terminal_"
+    }
+  ]
+}

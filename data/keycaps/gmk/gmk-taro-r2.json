@@ -1,0 +1,13 @@
+{
+  "title": "GMK Taro",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-taro",
+  "image": "data/keycaps/gmk/gmk-taro-r2.jpg",
+  "links": [
+    {
+      "name": "Taro R2 GH GB Link",
+      "url": "https://geekhack.org/index.php?topic=104934.0"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "title": "GMK MR Sleeves Addon",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-mr-sleeves-addon",
+  "image": "data/keycaps/gmk/gmk-mr-sleeves-addon.png",
+  "skip": "no base",
+  "links": [
+    {
+      "name": "MR Sleeves Addon ZF GB Link",
+      "url": "https://www.zfrontier.com/m/4343"
+    }
+  ]
+}

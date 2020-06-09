@@ -1,0 +1,14 @@
+{
+  "title": "GMK HyperFuse Accent",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-hyperfuse-accent",
+  "image": "data/keycaps/gmk/gmk-hyperfuse-accent.jpg",
+  "skip": "no base",
+  "links": [
+    {
+      "name": "HyperFuse Accent OCO GB Link",
+      "url": "https://www.originativeco.com/products/hyperfuse-accent-kit"
+    }
+  ]
+}

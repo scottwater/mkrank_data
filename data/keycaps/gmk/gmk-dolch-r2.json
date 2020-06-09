@@ -1,0 +1,14 @@
+{
+  "title": "GMK Dolch R2",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-dolch-r2",
+  "image": "data/keycaps/gmk/gmk-dolch-r2.png",
+  "skip": "duplicate",
+  "links": [
+    {
+      "name": "Dolch R2 OCO GB Link",
+      "url": "https://www.originativeco.com/products/dolch"
+    }
+  ]
+}

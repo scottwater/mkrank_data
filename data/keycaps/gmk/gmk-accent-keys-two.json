@@ -1,0 +1,14 @@
+{
+  "title": "GMK Accent Keys Two",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-accent-keys-two",
+  "image": "data/keycaps/gmk/gmk-accent-keys-two.jpg",
+  "skip": true,
+  "links": [
+    {
+      "name": "Accent Keys Two OCO GB Link",
+      "url": "https://www.originativeco.com/products/accent-keys-two"
+    }
+  ]
+}

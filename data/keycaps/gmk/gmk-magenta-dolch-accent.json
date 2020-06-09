@@ -1,0 +1,14 @@
+{
+  "title": "GMK Magenta Dolch Accent",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-magenta-dolch-accent",
+  "image": "data/keycaps/gmk/gmk-magenta-dolch-accent.png",
+  "skip": "no base",
+  "links": [
+    {
+      "name": "Magenta Dolch Accent OCO GB Link",
+      "url": "https://www.originativeco.com/products/magenta-dolch-accent"
+    }
+  ]
+}

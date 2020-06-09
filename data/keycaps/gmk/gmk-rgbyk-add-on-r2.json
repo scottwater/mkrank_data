@@ -1,0 +1,14 @@
+{
+  "title": "GMK RGBYK Add On R2",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-rgbyk-add-on-r2",
+  "image": "data/keycaps/gmk/gmk-rgbyk-add-on-r2.jpg",
+  "skip": "no base",
+  "links": [
+    {
+      "name": "RGBYK Add-On R2 GH GB Link",
+      "url": "https://geekhack.org/index.php?topic=105127.0"
+    }
+  ]
+}

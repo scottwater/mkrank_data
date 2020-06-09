@@ -1,0 +1,14 @@
+{
+  "title": "GMK Dolch R1",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-dolch-r1",
+  "image": "data/keycaps/gmk/gmk-dolch-r1.png",
+  "skip": "duplicate",
+  "links": [
+    {
+      "name": "Dolch R1 GH GB Link",
+      "url": "https://geekhack.org/index.php?topic=58608.0"
+    }
+  ]
+}

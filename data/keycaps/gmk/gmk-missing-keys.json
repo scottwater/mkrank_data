@@ -1,0 +1,14 @@
+{
+  "title": "GMK Missing Keys",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-missing-keys",
+  "image": "data/keycaps/gmk/gmk-missing-keys.jpg",
+  "skip": "no base",
+  "links": [
+    {
+      "name": "Missing Keys GH GB Link",
+      "url": "https://geekhack.org/index.php?topic=101839.0"
+    }
+  ]
+}

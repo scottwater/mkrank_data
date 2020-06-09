@@ -1,0 +1,14 @@
+{
+  "title": "GMK Pretty in Pink",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-pretty-in-pink",
+  "image": "data/keycaps/gmk/gmk-pretty-in-pink.jpg",
+  "skip": "no base",
+  "links": [
+    {
+      "name": "Pretty in Pink GH GB Link",
+      "url": "https://novelkeys.xyz/collections/frontpage/products/gmk-pretty-in-pink-kit-gb"
+    }
+  ]
+}

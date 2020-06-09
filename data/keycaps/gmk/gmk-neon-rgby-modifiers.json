@@ -1,0 +1,14 @@
+{
+  "title": "GMK Neon RGBY Modifiers",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-neon-rgby-modifiers",
+  "image": "data/keycaps/gmk/gmk-neon-rgby-modifiers.jpg",
+  "skip": "no base",
+  "links": [
+    {
+      "name": "Neon RGBY Modifiers OCO GB Link",
+      "url": "https://www.originativeco.com/products/neon-rgby-modifiers"
+    }
+  ]
+}

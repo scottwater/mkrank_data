@@ -1,0 +1,13 @@
+{
+  "title": "GMK Metaverse P5",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-metaverse-p5",
+  "image": "data/keycaps/gmk/gmk-metaverse-p5.png",
+  "links": [
+    {
+      "name": "Metaverse GH GB Link",
+      "url": "https://geekhack.org/index.php?topic=96598.0"
+    }
+  ]
+}

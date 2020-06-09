@@ -1,0 +1,13 @@
+{
+  "title": "GMK Cyan",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-cyan",
+  "image": "data/keycaps/gmk/gmk-cyan.png",
+  "links": [
+    {
+      "name": "Cyan GH GB Link",
+      "url": "https://geekhack.org/index.php?topic=63953.0"
+    }
+  ]
+}

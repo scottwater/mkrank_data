@@ -1,0 +1,14 @@
+{
+  "title": "GMK SkIIdata R2",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-skiidata-r2",
+  "image": "data/keycaps/gmk/gmk-skiidata-r2.png",
+  "skip": "duplicate",
+  "links": [
+    {
+      "name": "SkIIdata TheKeyCompany GB Link",
+      "url": "https://thekey.company/products/gmk-skiidata"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "title": "GMK Sky Dolch Accent",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-sky-dolch-accent",
+  "image": "data/keycaps/gmk/gmk-sky-dolch-accent.jpg",
+  "skip": "no base",
+  "links": [
+    {
+      "name": "Sky Dolch Accent OCO GB Link",
+      "url": "https://www.originativeco.com/products/sky-dolch-kit"
+    }
+  ]
+}

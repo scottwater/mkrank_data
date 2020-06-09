@@ -1,0 +1,14 @@
+{
+  "title": "GMK OG Spacekeys L9 CC CR split spacebars",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-og-spacekeys-l9-cc-cr-split-spacebars",
+  "image": "data/keycaps/gmk/gmk-og-spacekeys-l9-cc-cr-split-spacebars.png",
+  "skip": "no base",
+  "links": [
+    {
+      "name": "OG Spacekeys GH GB Link",
+      "url": "https://geekhack.org/index.php?topic=100687.0"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "title": "GMK Skidolcha",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-skidolcha",
+  "image": "data/keycaps/gmk/gmk-skidolcha.jpg",
+  "links": [
+    {
+      "name": "Skidolcha OCO GB Link",
+      "url": "https://www.originativeco.com/products/skidolcha"
+    }
+  ]
+}

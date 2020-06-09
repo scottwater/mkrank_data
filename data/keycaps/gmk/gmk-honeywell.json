@@ -1,0 +1,13 @@
+{
+  "title": "GMK Honeywell",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-honeywell",
+  "image": "data/keycaps/gmk/gmk-honeywell.jpg",
+  "links": [
+    {
+      "name": "Honeywell GH GB Link",
+      "url": "https://geekhack.org/index.php?topic=86286.0"
+    }
+  ]
+}

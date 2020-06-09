@@ -1,0 +1,14 @@
+{
+  "title": "GMK 9009 R1",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-9009-r1",
+  "image": "data/keycaps/gmk/gmk-9009-r1.png",
+  "duplicate": true,
+  "links": [
+    {
+      "name": "9009 R1 GH GB Link",
+      "url": "https://geekhack.org/index.php?topic=80434.0"
+    }
+  ]
+}

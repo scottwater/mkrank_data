@@ -1,0 +1,13 @@
+{
+  "title": "GMK HyperFuse Origins",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-hyperfuse-origins",
+  "image": "data/keycaps/gmk/gmk-hyperfuse-origins-r2.png",
+  "links": [
+    {
+      "name": "HyperFuse Origins R2 OCO GB Link",
+      "url": "https://www.originativeco.com/products/hyperfuse-origins"
+    }
+  ]
+}

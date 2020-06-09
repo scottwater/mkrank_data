@@ -1,0 +1,14 @@
+{
+  "title": "GMK Honeywell Co",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-honeywell-co",
+  "image": "data/keycaps/gmk/gmk-honeywell-co.png",
+  "skip": "duplicate",
+  "links": [
+    {
+      "name": "Honeywell & Co. OCO GB Link",
+      "url": "https://www.originativeco.com/products/honeywell-co"
+    }
+  ]
+}
