@@ -1,1 +1,14 @@
-{"title":"GMK DMG","type":"gmk","tags":["keycaps","gmk"],"uid":"gmk-dmg","image":"data/keycaps/gmk/gmk-dmg.jpg","links":[{"name":"GMK DMG Groupbuy Link","url":"https://geekhack.org/index.php?topic=98153.0"}]}
+{
+  "title": "GMK DMG",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-dmg",
+  "image": "data/keycaps/gmk/gmk-dmg.jpg",
+  "skip": "duplicate",
+  "links": [
+    {
+      "name": "GMK DMG Groupbuy Link",
+      "url": "https://geekhack.org/index.php?topic=98153.0"
+    }
+  ]
+}
