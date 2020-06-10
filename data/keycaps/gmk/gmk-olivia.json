@@ -4,7 +4,6 @@
   "tags": ["keycaps", "gmk"],
   "uid": "gmk-olivia",
   "image": "data/keycaps/gmk/gmk-olivia.jpg",
-  "skip": "split",
   "links": [
     {
       "name": "Olivia++ NovelKeys GB Link",
