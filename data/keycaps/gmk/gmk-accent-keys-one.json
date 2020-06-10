@@ -4,7 +4,7 @@
   "tags": ["keycaps", "gmk"],
   "uid": "gmk-accent-keys-one",
   "image": "data/keycaps/gmk/gmk-accent-keys-one.jpg",
-  "skip": true,
+  "skip": "no base",
   "links": [
     {
       "name": "Accent Keys One OCO GB Link",

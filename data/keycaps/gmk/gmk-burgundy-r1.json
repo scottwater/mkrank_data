@@ -4,7 +4,7 @@
   "tags": ["keycaps", "gmk"],
   "uid": "gmk-burgundy-r1",
   "image": "data/keycaps/gmk/gmk-burgundy-r1.png",
-  "duplicate": true,
+  "skip": "duplicate",
   "links": [
     {
       "name": "Burgundy R1 GH GB Link",

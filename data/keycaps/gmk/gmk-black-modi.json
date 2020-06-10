@@ -4,7 +4,7 @@
   "tags": ["keycaps", "gmk"],
   "uid": "gmk-black-modi",
   "image": "data/keycaps/gmk/gmk-black-modi.png",
-  "skip": true,
+  "skip": "no base",
   "links": [
     {
       "name": "Black Modi GH GB Link",
