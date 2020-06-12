@@ -1,1 +1,14 @@
-{"title":"GMK Black Mod Addon","type":"gmk","tags":["keycaps","gmk"],"uid":"gmk-black-mod-addon","image":"data/keycaps/gmk/gmk-black-mod-addon.png","links":[{"name":"Black Mod Addon GH GB Link","url":"https://geekhack.org/index.php?topic=105647.0"}]}
+{
+  "title": "GMK Black Mod Addon",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-black-mod-addon",
+  "image": "data/keycaps/gmk/gmk-black-mod-addon.png",
+  "skip": "no base",
+  "links": [
+    {
+      "name": "Black Mod Addon GH GB Link",
+      "url": "https://geekhack.org/index.php?topic=105647.0"
+    }
+  ]
+}

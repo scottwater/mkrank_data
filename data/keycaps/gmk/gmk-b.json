@@ -1,1 +1,14 @@
-{"title":"GMK B","type":"gmk","tags":["keycaps","gmk"],"uid":"gmk-b","image":"data/keycaps/gmk/gmk-b.png","links":[{"name":"B GH GB Link","url":"https://geekhack.org/index.php?topic=102959.0"}]}
+{
+  "title": "GMK B",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-b",
+  "image": "data/keycaps/gmk/gmk-b.png",
+  "skip": "no base",
+  "links": [
+    {
+      "name": "B GH GB Link",
+      "url": "https://geekhack.org/index.php?topic=102959.0"
+    }
+  ]
+}

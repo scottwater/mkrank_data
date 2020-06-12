@@ -1,1 +1,14 @@
-{"title":"GMK RGBYK R1","type":"gmk","tags":["keycaps","gmk"],"uid":"gmk-rgbyk-r1","image":"data/keycaps/gmk/gmk-rgbyk-r1.png","links":[{"name":"RGBYK R1 GH GB Link","url":"https://geekhack.org/index.php?topic=73626.0"}]}
+{
+  "title": "GMK RGBYK R1",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-rgbyk-r1",
+  "skip": "no base",
+  "image": "data/keycaps/gmk/gmk-rgbyk-r1.png",
+  "links": [
+    {
+      "name": "RGBYK R1 GH GB Link",
+      "url": "https://geekhack.org/index.php?topic=73626.0"
+    }
+  ]
+}
