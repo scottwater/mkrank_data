@@ -1,13 +1,1 @@
-{
-  "title": "GMK 3Run",
-  "type": "gmk",
-  "tags": ["keycaps", "gmk"],
-  "uid": "gmk-3run",
-  "image": "data/keycaps/gmk/gmk-3run.jpeg",
-  "links": [
-    {
-      "name": "3Run MD GB Link",
-      "url": "https://www.massdrop.com/buy/gmk-3run-keycap-set"
-    }
-  ]
-}
+{"title":"GMK 3Run","type":"gmk","tags":["keycaps","gmk","base"],"uid":"gmk-3run","image":"data/keycaps/gmk/gmk-3run.jpeg","links":[{"name":"3Run MD GB Link","url":"https://www.massdrop.com/buy/gmk-3run-keycap-set"}]}

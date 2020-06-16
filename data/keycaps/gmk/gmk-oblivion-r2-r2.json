@@ -1,13 +1,1 @@
-{
-  "title": "GMK Oblivion",
-  "type": "gmk",
-  "tags": ["keycaps", "gmk"],
-  "uid": "gmk-oblivion",
-  "image": "data/keycaps/gmk/gmk-oblivion-r2-r2.png",
-  "links": [
-    {
-      "name": "Oblivion R2 MD GB Link",
-      "url": "https://drop.com/buy/drop-oblotzky-gmk-oblivion-v2-custom-keycap-set"
-    }
-  ]
-}
+{"title":"GMK Oblivion","type":"gmk","tags":["keycaps","gmk","base"],"uid":"gmk-oblivion","image":"data/keycaps/gmk/gmk-oblivion-r2-r2.png","links":[{"name":"Oblivion R2 MD GB Link","url":"https://drop.com/buy/drop-oblotzky-gmk-oblivion-v2-custom-keycap-set"}]}

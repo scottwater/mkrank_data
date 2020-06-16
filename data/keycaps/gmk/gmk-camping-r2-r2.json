@@ -1,13 +1,1 @@
-{
-  "title": "GMK Camping",
-  "type": "gmk",
-  "tags": ["keycaps", "gmk"],
-  "uid": "gmk-camping",
-  "image": "data/keycaps/gmk/gmk-camping-r2-r2.png",
-  "links": [
-    {
-      "name": "Camping R2 NovelKeys GB Link",
-      "url": "https://novelkeys.xyz/collections/frontpage/products/gmk-camping-gb-r2"
-    }
-  ]
-}
+{"title":"GMK Camping","type":"gmk","tags":["keycaps","gmk","base"],"uid":"gmk-camping","image":"data/keycaps/gmk/gmk-camping-r2-r2.png","links":[{"name":"Camping R2 NovelKeys GB Link","url":"https://novelkeys.xyz/collections/frontpage/products/gmk-camping-gb-r2"}]}

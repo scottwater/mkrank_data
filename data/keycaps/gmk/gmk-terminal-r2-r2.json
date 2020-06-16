@@ -1,13 +1,1 @@
-{
-  "title": "GMK Terminal",
-  "type": "gmk",
-  "tags": ["keycaps", "gmk"],
-  "uid": "gmk-terminal",
-  "image": "data/keycaps/gmk/gmk-terminal-r2-r2.jpeg",
-  "links": [
-    {
-      "name": "Terminal R2 The Key Company GB Link",
-      "url": "https://thekey.company/collections/archive/products/gmk-terminal_"
-    }
-  ]
-}
+{"title":"GMK Terminal","type":"gmk","tags":["keycaps","gmk","base"],"uid":"gmk-terminal","image":"data/keycaps/gmk/gmk-terminal-r2-r2.jpeg","links":[{"name":"Terminal R2 The Key Company GB Link","url":"https://thekey.company/collections/archive/products/gmk-terminal_"}]}

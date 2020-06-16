@@ -70,4 +70,14 @@ namespace :keycaps do
       end
     end
   end
+
+  task :addbase do
+    Dir["data/keycaps/gmk/*.json"].each do |path|
+      data = JSON.parse(File.read(path))
+      unless data["skip"]
+        data["tags"] << "base"
+        File.write(path, data.to_json)
+      end
+    end
+  end
 end

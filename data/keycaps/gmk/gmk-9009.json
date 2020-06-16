@@ -1,13 +1,1 @@
-{
-  "title": "GMK 9009",
-  "type": "gmk",
-  "tags": ["keycaps", "gmk"],
-  "uid": "gmk-9009",
-  "image": "data/keycaps/gmk/gmk-9009.jpg",
-  "links": [
-    {
-      "name": "9009 R3 Dixie GB Link",
-      "url": "https://dixiemech.store/collections/gmk-9009-round-3/products/gmk-9009-round-3"
-    }
-  ]
-}
+{"title":"GMK 9009","type":"gmk","tags":["keycaps","gmk","base"],"uid":"gmk-9009","image":"data/keycaps/gmk/gmk-9009.jpg","links":[{"name":"9009 R3 Dixie GB Link","url":"https://dixiemech.store/collections/gmk-9009-round-3/products/gmk-9009-round-3"}]}

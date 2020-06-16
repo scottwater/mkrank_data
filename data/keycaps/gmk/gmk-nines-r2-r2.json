@@ -1,13 +1,1 @@
-{
-  "title": "GMK Nines",
-  "type": "gmk",
-  "tags": ["keycaps", "gmk"],
-  "uid": "gmk-nines",
-  "image": "data/keycaps/gmk/gmk-nines-r2-r2.jpg",
-  "links": [
-    {
-      "name": "Nines Kono GB Link",
-      "url": "https://kono.store/products/gmk-nines-keycap-set"
-    }
-  ]
-}
+{"title":"GMK Nines","type":"gmk","tags":["keycaps","gmk","base"],"uid":"gmk-nines","image":"data/keycaps/gmk/gmk-nines-r2-r2.jpg","links":[{"name":"Nines Kono GB Link","url":"https://kono.store/products/gmk-nines-keycap-set"}]}
