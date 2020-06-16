@@ -1,1 +1,7 @@
-{"title":"Gateron Switches - Clears","tags":["switch","linear"],"type":"switch","uid":"switch-gateron-switches-clears","image":"switch-gateron-switches-clears.jpg"}
+{
+  "title": "Gateron Clears",
+  "tags": ["switch", "linear"],
+  "type": "switch",
+  "uid": "switch-gateron-switches-clears",
+  "image": "switch-gateron-switches-clears.jpg"
+}

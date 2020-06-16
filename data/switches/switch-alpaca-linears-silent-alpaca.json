@@ -1,1 +1,7 @@
-{"title":"Alpaca Linears - Silent Alpaca","tags":["switch","linear"],"type":"switch","uid":"switch-alpaca-linears-silent-alpaca","image":"switch-alpaca-linears-silent-alpaca.jpg"}
+{
+  "title": "Silent Alpacas",
+  "tags": ["switch", "linear"],
+  "type": "switch",
+  "uid": "switch-alpaca-linears-silent-alpaca",
+  "image": "switch-alpaca-linears-silent-alpaca.jpg"
+}

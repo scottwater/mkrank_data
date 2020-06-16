@@ -1,1 +1,7 @@
-{"title":"Mauve Switches (10 pack)","tags":["switch","linear"],"type":"switch","uid":"switch-mauve-switches","image":"switch-mauve-switches.jpg"}
+{
+  "title": "Mauves",
+  "tags": ["switch", "linear"],
+  "type": "switch",
+  "uid": "switch-mauve-switches",
+  "image": "switch-mauve-switches.jpg"
+}

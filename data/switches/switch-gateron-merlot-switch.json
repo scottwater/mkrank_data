@@ -1,1 +1,7 @@
-{"title":"Gateron Merlot Switch","tags":["switch","linear"],"type":"switch","uid":"switch-gateron-merlot-switch","image":"switch-gateron-merlot-switch.png"}
+{
+  "title": "Gateron Merlot",
+  "tags": ["switch", "linear"],
+  "type": "switch",
+  "uid": "switch-gateron-merlot-switch",
+  "image": "switch-gateron-merlot-switch.png"
+}
