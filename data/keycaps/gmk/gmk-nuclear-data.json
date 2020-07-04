@@ -1,0 +1,13 @@
+{
+  "title": "GMK Nuclear Data",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk", "base"],
+  "uid": "gmk-nuclear-data",
+  "image": "data/keycaps/gmk/gmk-nuclear-data.png",
+  "links": [
+    {
+      "name": "Nuclear Data GH GB Link",
+      "url": "https://geekhack.org/index.php?topic=107254.0"
+    }
+  ]
+}

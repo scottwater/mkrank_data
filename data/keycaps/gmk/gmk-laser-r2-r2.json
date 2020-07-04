@@ -1,0 +1,14 @@
+{
+  "title": "GMK Laser R2 R2",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk"],
+  "uid": "gmk-laser-r2-r2",
+  "skip": "duplicate",
+  "image": "data/keycaps/gmk/gmk-laser-r2-r2.jpg",
+  "links": [
+    {
+      "name": "Laser R2 MD GB Link",
+      "url": "https://drop.com/buy/drop-mito-gmk-laser-custom-keycap-set"
+    }
+  ]
+}

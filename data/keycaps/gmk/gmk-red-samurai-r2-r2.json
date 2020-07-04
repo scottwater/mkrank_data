@@ -1,0 +1,14 @@
+{
+  "title": "GMK Red Samurai R2 R2",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk", "base"],
+  "uid": "gmk-red-samurai-r2-r2",
+  "skip": "duplicate",
+  "image": "data/keycaps/gmk/gmk-red-samurai-r2-r2.jpg",
+  "links": [
+    {
+      "name": "Red Samurai R2 MD GB Link",
+      "url": "https://drop.com/buy/drop-redsuns-gmk-red-samurai-custom-keycap-set"
+    }
+  ]
+}

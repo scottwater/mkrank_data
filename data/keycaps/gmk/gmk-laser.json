@@ -1,1 +1,17 @@
-{"title":"GMK Laser","type":"gmk","tags":["keycaps","gmk","base"],"uid":"gmk-laser","image":"data/keycaps/gmk/gmk-laser.jpg","links":[{"name":"Laser MD GB Link","url":"https://www.massdrop.com/buy/massdrop-x-mito-gmk-laser-custom-keycap-set"},{"name":"Laser Translucent MD GB Link","url":"https://drop.com/buy/massdrop-x-mito-laserwave-gmk-translucent-keycaps"}]}
+{
+  "title": "GMK Laser",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk", "base"],
+  "uid": "gmk-laser",
+  "image": "data/keycaps/gmk/gmk-laser.jpg",
+  "links": [
+    {
+      "name": "Laser MD GB Link",
+      "url": "https://www.massdrop.com/buy/massdrop-x-mito-gmk-laser-custom-keycap-set"
+    },
+    {
+      "name": "Laser Translucent MD GB Link",
+      "url": "https://drop.com/buy/massdrop-x-mito-laserwave-gmk-translucent-keycaps"
+    }
+  ]
+}
