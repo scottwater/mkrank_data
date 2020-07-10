@@ -1,0 +1,13 @@
+{
+  "title": "GMK Mecha 01",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk", "base"],
+  "uid": "gmk-mecha-01",
+  "image": "data/keycaps/gmk/gmk-mecha-01.png",
+  "links": [
+    {
+      "name": "Mecha-01 GH GB Link",
+      "url": "https://geekhack.org/index.php?topic=100396.0"
+    }
+  ]
+}
