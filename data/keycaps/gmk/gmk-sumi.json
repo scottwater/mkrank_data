@@ -1,0 +1,13 @@
+{
+  "title": "GMK Sumi",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk", "base"],
+  "uid": "gmk-sumi",
+  "image": "data/keycaps/gmk/gmk-sumi.jpg",
+  "links": [
+    {
+      "name": "Geekhack",
+      "url": "https://geekhack.org/index.php?topic=104469.0"
+    }
+  ]
+}

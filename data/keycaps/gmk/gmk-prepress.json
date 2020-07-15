@@ -1,0 +1,13 @@
+{
+  "title": "GMK Prepress",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk", "base"],
+  "uid": "gmk-prepress",
+  "image": "data/keycaps/gmk/gmk-prepress.jpg",
+  "links": [
+    {
+      "name": "Geekhack",
+      "url": "https://geekhack.org/index.php?topic=103821.0"
+    }
+  ]
+}
