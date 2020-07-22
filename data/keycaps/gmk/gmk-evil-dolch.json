@@ -1,0 +1,13 @@
+{
+  "title": "GMK Evil Dolch",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk", "base"],
+  "uid": "gmk-evil-dolch",
+  "image": "data/keycaps/gmk/gmk-evil-dolch.jpg",
+  "links": [
+    {
+      "name": "Evil Dolch MD GB Link",
+      "url": "https://www.massdrop.com/buy/gmk-evil-dolch"
+    }
+  ]
+}
