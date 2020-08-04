@@ -1,0 +1,13 @@
+{
+  "title": "GMK Oni",
+  "type": "gmk",
+  "tags": ["keycaps", "gmk", "base"],
+  "uid": "gmk-oni",
+  "image": "data/keycaps/gmk/gmk-oni.jpg",
+  "links": [
+    {
+      "name": "GMK Oni IC",
+      "url": "https://geekhack.org/index.php?topic=105137.0"
+    }
+  ]
+}
